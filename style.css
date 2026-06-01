@@ -1,0 +1,10 @@
+/* Основные стили для всего сайта */
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Стиль для главных заголовков */
+h1 {
+    color: #1a365d;
+}
