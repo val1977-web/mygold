@@ -1,10 +1,10 @@
-/* Основные стили для всего сайта */
-body {
-    background-color: #f4f6f9;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Стиль для главных заголовков */
-h1 {
-    color: #1a365d;
-}
+/* Снизу стили для всего сайта */
+body {background-color: #f4f6f9; font-family: Arial, Helvetica, sans-serif;}
+/* Снизу стиль для главных заголовков */
+h1 {color: #1a365d;}
+/* Снизу стили для самой таблицы */
+table {width: 500px; border-collapse: collapse; border: 1px solid #cbd5e1;}
+/* Снизу стили для всех ячеек таблицы разом */
+th, td {padding: 10px; border: 1px solid #cbd5e1;}
+/* Снизу стили отдельно для шапки таблицы */
+tr.table-head {background-color: #1a365d; color: #ffffff;}
